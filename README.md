@@ -5,3 +5,4 @@ A responsive single page application built with PHP, HTML, CSS, and JavaScript t
 ## Demo
 
 ![Screenshot of rendered page](images/screenshot.png)
+![Screenshot of rendered page](images/screenshot2.png)
